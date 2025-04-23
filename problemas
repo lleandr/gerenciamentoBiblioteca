@@ -1,0 +1,6 @@
+no código foram encontrados problemas dentro dos:
+
+princípio da responsabilidade única: a classe GerenciadorBiblioteca possuia multiplas responsabilidades;
+princípio aberto/fechado: a classe não estava aberta para extensão;
+princípio da segregação de interface: mistura de responsabilidades dentro do GerenciadorBiblioteca;
+
