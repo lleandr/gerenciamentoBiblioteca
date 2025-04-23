@@ -1,6 +1,7 @@
-no código foram encontrados problemas dentro dos:
+no código foram encontrados os seguintes problemas:
 
 princípio da responsabilidade única: a classe GerenciadorBiblioteca possuia multiplas responsabilidades;
 princípio aberto/fechado: a classe não estava aberta para extensão;
 princípio da segregação de interface: mistura de responsabilidades dentro do GerenciadorBiblioteca;
-
+a criação de objetos como new Livro() e new Usuario() estava repetitiva;
+uso de variáveis com nomes que não são descritiveis;
